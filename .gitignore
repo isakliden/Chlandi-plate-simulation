@@ -1,0 +1,17 @@
+/target/
+.env
+.env.*
+*.pem
+*.key
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+presets.json
+*.log
+*.pdb
+*.bak
